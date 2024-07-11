@@ -1,0 +1,1 @@
+Ce projet est un jeu de morpion écrit en Ruby. Deux joueurs peuvent jouer à tour de rôle sur un plateau de jeu 3x3. Le jeu vérifie automatiquement les mouvements valides, déclare un gagnant ou une égalité, et permet de rejouer une partie.
